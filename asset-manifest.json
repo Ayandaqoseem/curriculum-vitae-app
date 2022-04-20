@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/curriculum-vitae-app/static/css/main.3049eb8e.css",
-    "main.js": "/curriculum-vitae-app/static/js/main.73274d5a.js",
-    "index.html": "/curriculum-vitae-app/index.html",
-    "main.3049eb8e.css.map": "/curriculum-vitae-app/static/css/main.3049eb8e.css.map",
-    "main.73274d5a.js.map": "/curriculum-vitae-app/static/js/main.73274d5a.js.map"
+    "main.css": "/cv-react-app/static/css/main.c9bc8d96.css",
+    "main.js": "/cv-react-app/static/js/main.1ac2a759.js",
+    "static/media/img.jpg": "/cv-react-app/static/media/img.d7afd443e1c18bea45c1.jpg",
+    "index.html": "/cv-react-app/index.html",
+    "main.c9bc8d96.css.map": "/cv-react-app/static/css/main.c9bc8d96.css.map",
+    "main.1ac2a759.js.map": "/cv-react-app/static/js/main.1ac2a759.js.map"
   },
   "entrypoints": [
-    "static/css/main.3049eb8e.css",
-    "static/js/main.73274d5a.js"
+    "static/css/main.c9bc8d96.css",
+    "static/js/main.1ac2a759.js"
   ]
 }
